@@ -1,0 +1,14 @@
+.navbar,.footer{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    padding: 8px;
+    font-size: 0.9rem;
+}
+
+.footer{
+    position: absolute;
+    bottom:0;
+    /* background-color: bl; */
+    width: 100%;
+}
